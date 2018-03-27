@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#76ff03</color>
+    <color name="colorPrimaryDark">#32cb00</color>
+    <color name="backgroundcolor">#f5f5f5</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppgreen">#00c853</color>
+    <color name="yellow">#ffc400</color>
+    <color name="green">#00bfa5</color>
+    <color name="red">#ff0000</color>
+    <color name="well">#69f0ae</color>
+    <color name="tank">#00bfa5</color>
+    <color name="soil">#ffb300</color>
+    <color name="rain">#0091ea</color>
+    <color name="colorAccent">#76ff03</color>
+    <color name="white">#ffffff</color>\
+    <color name="pearlWhite">#eceff1</color>
+</resources>
